@@ -9,7 +9,12 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "leaflet": "^1.7.1",
+    "suncalc": "^1.8.0",
+    "vue": "^2.6.11",
+    "vue-google-charts": "^0.3.3",
+    "vue2-leaflet": "^2.7.0",
+    "vuex": "^3.6.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
